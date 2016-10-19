@@ -1,0 +1,10 @@
+<?php
+return[
+'database'=>[
+'name'=>'tuesday',
+'username'=>'root',
+'password'=>'compass',
+'connection'=>'mysql:host='localhost',
+'options'=>[]
+]
+];

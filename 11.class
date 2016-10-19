@@ -1,0 +1,8 @@
+<?php
+class 
+User{	
+require '11a.php';
+require '11.html';
+}
+$user1=>new User();
+$user1->test_input($data);
